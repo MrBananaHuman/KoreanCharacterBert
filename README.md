@@ -5,7 +5,7 @@ Small model (3 layers) download link: https://drive.google.com/open?id=1Ae_3Lzxz
 
 Base model will not be shared.
 
-KorQuAD v1.0 result
-- Small model: f1=, em=
+KorQuAD v1.0 results
+- Small model: f1=86.75, em=77.14
 - Base model: f1=, em=
 
