@@ -6,8 +6,8 @@ Small model (3 layers) download link: https://drive.google.com/open?id=1Ae_3Lzxz
 Base model will not be shared.
 
 KorQuAD v1.0 results
-- Small model: f1=86.75, em=77.14
-- Base model: f1=, em=
+- Small model (450,000 steps): f1=86.75, em=77.14
+- Base model (450,000 steps): f1=, em=
 
 Inference time (RTX 2070 Super)
 - Small model: 10 ms
