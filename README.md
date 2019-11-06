@@ -9,3 +9,6 @@ KorQuAD v1.0 results
 - Small model: f1=86.75, em=77.14
 - Base model: f1=, em=
 
+Inference time (RTX 2070 Super)
+- Small model: 10 ms
+- Base model: 30 ms
