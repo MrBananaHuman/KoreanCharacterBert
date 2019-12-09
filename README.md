@@ -1,7 +1,7 @@
 # KoreanCharacterBert
 Korean BERT model using character tokenizer
 
-Small model (3 layers) download link: https://drive.google.com/open?id=1Ae_3LzxzAiVT2NigGdqklfTGR87ACbO1
+Small model (3 layers) download link: plz asked to me
 
 Base model will not be shared.
 
