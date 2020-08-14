@@ -1,9 +1,7 @@
 # KoreanCharacterBert
 Korean BERT model using character tokenizer
 
-Small model (3 layers) download link: plz asked to me
-
-Base model will not be shared.
+Small model (3 layers) and base model download link: plz asked to me (bananaband657@gmail.com)
 
 KorQuAD v1.0 results
 - Small model (450,000 steps, 512 batch size): f1=86.75, em=77.14
